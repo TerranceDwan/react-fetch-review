@@ -17,3 +17,9 @@ code {
   color: #ddd;
   position: absolute;
 }
+
+.footer{
+  color: white;
+  display: block;
+  text-align: center;
+}
