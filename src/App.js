@@ -1,5 +1,5 @@
 import React from 'react';
-import JokeButton from './JokeButton';
+import JokeButton from './components/JokeButton';
 import './App.css';
 
 function App() {
