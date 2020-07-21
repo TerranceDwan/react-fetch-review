@@ -7,7 +7,7 @@ class JokeButton extends Component {
         <div>
             <button className="button btn-outline-info btn-lg my-4" id="button" onClick={jokeProduction}>
                 <h2>
-                    Programming Jokes
+                    Programming Joke
                 </h2>
             </button>
             <p className="m2" id="setup"></p>
